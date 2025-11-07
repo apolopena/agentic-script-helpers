@@ -6,8 +6,10 @@ __pycache__/
 # Observability (environment-specific)
 .claude/.observability-state
 .claude/.observability-config
+.claude/data/
 .summary-prompt.txt
 .env*
+logs/
 
 # AI Planning System (instance files)
 .ai/planning/prp/instances/
